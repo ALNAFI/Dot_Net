@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroTier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97992A-C0D5-4F48-8DC0-30734D5889F7}|BLL\\BLL.csproj|C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroTier\\bll\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97992A-C0D5-4F48-8DC0-30734D5889F7}|BLL\\BLL.csproj|solutionrelative:bll\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBB9802-ACC6-4461-B3AD-6C0B42404209}|IntroTier\\IntroTier.csproj|C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroTier\\introtier\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBB9802-ACC6-4461-B3AD-6C0B42404209}|IntroTier\\IntroTier.csproj|solutionrelative:introtier\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D301B8-6E1C-4966-B8E8-5FFA4C36B8C1}|DAL\\DAL.csproj|c:\\users\\alnaf\\desktop\\dot net code\u0027s\\introtier\\dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D301B8-6E1C-4966-B8E8-5FFA4C36B8C1}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroTier\\BLL\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\StudentService.cs",
+              "ToolTip": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroTier\\BLL\\Service\\StudentService.cs",
+              "RelativeToolTip": "BLL\\Service\\StudentService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:47:37.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroTier\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroTier\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\StudentRepo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:22:50.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroTier\\IntroTier\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroTier\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroTier\\IntroTier\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroTier\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:44:31.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

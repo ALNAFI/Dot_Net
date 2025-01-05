@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B21CC7-44CE-44FF-95A2-6178503DA62D}|IntroCodeFirst\\IntroCodeFirst.csproj|c:\\users\\alnaf\\desktop\\dot net code\u0027s\\introcodefirst\\introcodefirst\\introcodefirst\\migrations\\202412281810496_addcoursedept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B21CC7-44CE-44FF-95A2-6178503DA62D}|IntroCodeFirst\\IntroCodeFirst.csproj|solutionrelative:introcodefirst\\migrations\\202412281810496_addcoursedept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B21CC7-44CE-44FF-95A2-6178503DA62D}|IntroCodeFirst\\IntroCodeFirst.csproj|C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\introcodefirst\\ef\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B21CC7-44CE-44FF-95A2-6178503DA62D}|IntroCodeFirst\\IntroCodeFirst.csproj|solutionrelative:introcodefirst\\ef\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B21CC7-44CE-44FF-95A2-6178503DA62D}|IntroCodeFirst\\IntroCodeFirst.csproj|C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\introcodefirst\\ef\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B21CC7-44CE-44FF-95A2-6178503DA62D}|IntroCodeFirst\\IntroCodeFirst.csproj|solutionrelative:introcodefirst\\ef\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B21CC7-44CE-44FF-95A2-6178503DA62D}|IntroCodeFirst\\IntroCodeFirst.csproj|C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\introcodefirst\\ef\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B21CC7-44CE-44FF-95A2-6178503DA62D}|IntroCodeFirst\\IntroCodeFirst.csproj|solutionrelative:introcodefirst\\ef\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B21CC7-44CE-44FF-95A2-6178503DA62D}|IntroCodeFirst\\IntroCodeFirst.csproj|C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\introcodefirst\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B21CC7-44CE-44FF-95A2-6178503DA62D}|IntroCodeFirst\\IntroCodeFirst.csproj|solutionrelative:introcodefirst\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B21CC7-44CE-44FF-95A2-6178503DA62D}|IntroCodeFirst\\IntroCodeFirst.csproj|C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\introcodefirst\\migrations\\202412281743431_initdbstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B21CC7-44CE-44FF-95A2-6178503DA62D}|IntroCodeFirst\\IntroCodeFirst.csproj|solutionrelative:introcodefirst\\migrations\\202412281743431_initdbstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B21CC7-44CE-44FF-95A2-6178503DA62D}|IntroCodeFirst\\IntroCodeFirst.csproj|C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\introcodefirst\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B21CC7-44CE-44FF-95A2-6178503DA62D}|IntroCodeFirst\\IntroCodeFirst.csproj|solutionrelative:introcodefirst\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B21CC7-44CE-44FF-95A2-6178503DA62D}|IntroCodeFirst\\IntroCodeFirst.csproj|C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\introcodefirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A6B21CC7-44CE-44FF-95A2-6178503DA62D}|IntroCodeFirst\\IntroCodeFirst.csproj|solutionrelative:introcodefirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202412281810496_addCourseDept.cs",
+              "DocumentMoniker": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\IntroCodeFirst\\Migrations\\202412281810496_addCourseDept.cs",
+              "RelativeDocumentMoniker": "IntroCodeFirst\\Migrations\\202412281810496_addCourseDept.cs",
+              "ToolTip": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\IntroCodeFirst\\Migrations\\202412281810496_addCourseDept.cs",
+              "RelativeToolTip": "IntroCodeFirst\\Migrations\\202412281810496_addCourseDept.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:10:53.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\IntroCodeFirst\\EF\\Department.cs",
+              "RelativeDocumentMoniker": "IntroCodeFirst\\EF\\Department.cs",
+              "ToolTip": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\IntroCodeFirst\\EF\\Department.cs",
+              "RelativeToolTip": "IntroCodeFirst\\EF\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:57:00.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\IntroCodeFirst\\EF\\Course.cs",
+              "RelativeDocumentMoniker": "IntroCodeFirst\\EF\\Course.cs",
+              "ToolTip": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\IntroCodeFirst\\EF\\Course.cs",
+              "RelativeToolTip": "IntroCodeFirst\\EF\\Course.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:56:12.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "202412281743431_InitDBStudents.cs",
+              "DocumentMoniker": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\IntroCodeFirst\\Migrations\\202412281743431_InitDBStudents.cs",
+              "RelativeDocumentMoniker": "IntroCodeFirst\\Migrations\\202412281743431_InitDBStudents.cs",
+              "ToolTip": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\IntroCodeFirst\\Migrations\\202412281743431_InitDBStudents.cs",
+              "RelativeToolTip": "IntroCodeFirst\\Migrations\\202412281743431_InitDBStudents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:43:56.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\IntroCodeFirst\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "IntroCodeFirst\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\IntroCodeFirst\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "IntroCodeFirst\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:38:17.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\IntroCodeFirst\\Web.config",
+              "RelativeDocumentMoniker": "IntroCodeFirst\\Web.config",
+              "ToolTip": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\IntroCodeFirst\\Web.config",
+              "RelativeToolTip": "IntroCodeFirst\\Web.config",
+              "ViewState": "AgIAACYAAAAAAAAAAAAjwD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-28T17:17:07.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\IntroCodeFirst\\EF\\StudentContext.cs",
+              "RelativeDocumentMoniker": "IntroCodeFirst\\EF\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\IntroCodeFirst\\EF\\StudentContext.cs",
+              "RelativeToolTip": "IntroCodeFirst\\EF\\StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:12:28.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\IntroCodeFirst\\EF\\Student.cs",
+              "RelativeDocumentMoniker": "IntroCodeFirst\\EF\\Student.cs",
+              "ToolTip": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\IntroCodeFirst\\IntroCodeFirst\\IntroCodeFirst\\EF\\Student.cs",
+              "RelativeToolTip": "IntroCodeFirst\\EF\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:55:58.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

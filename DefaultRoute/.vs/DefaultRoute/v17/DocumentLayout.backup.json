@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\DefaultRoute\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC66545B-0643-44B2-93A7-2B387B327313}|DefaultRoute\\DefaultRoute.csproj|c:\\users\\alnaf\\desktop\\dot net code\u0027s\\defaultroute\\defaultroute\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC66545B-0643-44B2-93A7-2B387B327313}|DefaultRoute\\DefaultRoute.csproj|solutionrelative:defaultroute\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\DefaultRoute\\DefaultRoute\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DefaultRoute\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\DefaultRoute\\DefaultRoute\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "DefaultRoute\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:24:28.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

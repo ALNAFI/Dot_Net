@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{752250CB-B4E3-479F-97FB-58250C22FF34}|CRUD\\CRUD.csproj|c:\\users\\alnaf\\desktop\\dot net code\u0027s\\crud\\crud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752250CB-B4E3-479F-97FB-58250C22FF34}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752250CB-B4E3-479F-97FB-58250C22FF34}|CRUD\\CRUD.csproj|c:\\users\\alnaf\\desktop\\dot net code\u0027s\\crud\\crud\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752250CB-B4E3-479F-97FB-58250C22FF34}|CRUD\\CRUD.csproj|solutionrelative:crud\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752250CB-B4E3-479F-97FB-58250C22FF34}|CRUD\\CRUD.csproj|c:\\users\\alnaf\\desktop\\dot net code\u0027s\\crud\\crud\\ef\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752250CB-B4E3-479F-97FB-58250C22FF34}|CRUD\\CRUD.csproj|solutionrelative:crud\\ef\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752250CB-B4E3-479F-97FB-58250C22FF34}|CRUD\\CRUD.csproj|c:\\users\\alnaf\\desktop\\dot net code\u0027s\\crud\\crud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{752250CB-B4E3-479F-97FB-58250C22FF34}|CRUD\\CRUD.csproj|solutionrelative:crud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\CRUD\\CRUD\\EF\\Tables\\Student.cs",
+              "RelativeDocumentMoniker": "CRUD\\EF\\Tables\\Student.cs",
+              "ToolTip": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\CRUD\\CRUD\\EF\\Tables\\Student.cs",
+              "RelativeToolTip": "CRUD\\EF\\Tables\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:14:03.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\CRUD\\CRUD\\EF\\Context.cs",
+              "RelativeDocumentMoniker": "CRUD\\EF\\Context.cs",
+              "ToolTip": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\CRUD\\CRUD\\EF\\Context.cs",
+              "RelativeToolTip": "CRUD\\EF\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:09:17.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\CRUD\\CRUD\\Web.config",
+              "RelativeDocumentMoniker": "CRUD\\Web.config",
+              "ToolTip": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\CRUD\\CRUD\\Web.config",
+              "RelativeToolTip": "CRUD\\Web.config",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADMAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-02T13:07:59.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\CRUD\\CRUD\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CRUD\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\alnaf\\Desktop\\Dot Net Code\u0027s\\CRUD\\CRUD\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CRUD\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwDAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:07:47.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
